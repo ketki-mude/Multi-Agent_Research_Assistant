@@ -95,16 +95,6 @@ This project implements an integrated research assistant that leverages three sp
   - Airflow orchestration is no longer required for this assignment.
 
 ---
-
-## **📌 Contributions**
-
-| **Member**   | **Contribution**                                                                                                                                         |
-|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Janvi** | **33%** – Developed and integrated the Snowflake Agent. This involved connecting to Snowflake to query structured valuation measures and generating textual summaries and visualizations from the data. |
-| **Ketki** | **33%** – Implemented the RAG Agent using Pinecone. Focused on performing metadata-filtered retrieval from NVIDIA quarterly reports and generating context-aware responses from the retrieved chunks. |
-| **Sahil** | **33%** – Designed and integrated the Web Search Agent. Responsible for leveraging a real-time search API to fetch current web data and developing the Streamlit UI along with FastAPI backend integration. |
----
-
 ## **📌 Attestation**
 **WE CERTIFY THAT WE HAVE NOT USED ANY OTHER STUDENTS' WORK IN OUR ASSIGNMENT AND COMPLY WITH THE POLICIES OUTLINED IN THE STUDENT HANDBOOK.**
 
