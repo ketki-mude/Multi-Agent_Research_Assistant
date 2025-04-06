@@ -8,7 +8,6 @@ This project implements an integrated research assistant that leverages three sp
 - **Streamlit:** [Application Link](http://34.85.173.233:8501/)
 - **Airflow Dashboard:** [Airflow Link](http://34.21.56.116:8080)
 - **Backend:** [Backend Link](http://34.85.173.233:8000/)
-- **Demo Video:** [YouTube Demo](https://youtu.be/7x4iwCADyJA)
 - **Documentation:** [Codelab/Documentation Link](https://codelabs-preview.appspot.com/?file_id=1xFumshJM3UlPdMnpQ0lPdu22o8shux50UXjRI8qIng4#1)
 
 ---
